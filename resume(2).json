@@ -1,0 +1,201 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "Experience ",
+    "education": "Education",
+    "skills": "Technical Skills",
+    "projects": "Selected Projects And Trainings",
+    "awards": "Achievements And Awards"
+  },
+  "basics": {
+    "name": "Pranjal Jain",
+    "email": "pranjal.jn97@gmail.com",
+    "phone": "(+91) 8959507173",
+    "website": "pranjaljain.me ",
+    "location": {
+      "address": "Dehradun, India"
+    }
+  },
+  "education": [
+    {
+      "institution": "University Of Petroleum And Energy Studies",
+      "location": "Dehradun, India",
+      "area": "Computer Science with Specialization in Cloud Computing And Virtualization Technology",
+      "studyType": "B.Tech",
+      "startDate": "July 2015",
+      "endDate": "May 2019",
+      "gpa": "7.0"
+    }
+  ],
+  "work": [
+    {
+      "company": "Eatopedia",
+      "location": "Dehradun",
+      "position": "Co-Founder and CTO",
+      "website": "",
+      "startDate": "Feb 2017",
+      "highlights": [
+        "Web and Mobile Application Development",
+        "Chatbot Development on FB Messenger Bot Platform",
+        "Server Management and Deployment (AWS)",
+        "Business Development",
+        "Technologies Used: PHP, AWS, JavaScript, FB Graph API,  MYSQL,  DialogFlow"
+      ],
+      "endDate": "Dec 2017"
+    },
+    {
+      "highlights": [
+        "Bult a wordpress plugin for chatbot Integration",
+        "Development of Chatbot ",
+        "Deployment of chatbot on FB Messenger Bot Platform",
+        "Technologies Used: Javascript, PHP, MYSQL, Wordpress, FB Graph API"
+      ],
+      "company": "Bodhiminds Inc.",
+      "position": "Web And Chatbot Developer Intern",
+      "startDate": "Jun 2017",
+      "endDate": "August 2017"
+    },
+    {
+      "highlights": [
+        "Developed an Online Exam Portal for schools and coaching institutes.",
+        "Technologies Used: HTML5, PHP5.6, JS, MYSQL"
+      ],
+      "company": "IAxis.Shiksha",
+      "position": "Summer Intern",
+      "startDate": "June 2015 ",
+      "endDate": "July 2015"
+    },
+    {
+      "highlights": [
+        " Enactus is an international, student run, not for profit organisation dedicated to inspiring students to improve the lives of others through entrepreneurial action.",
+        "Built and deploy web application for the Fest ",
+        null
+      ],
+      "location": "Delhi",
+      "startDate": "Dec 2017",
+      "position": "Web Developer And Designer",
+      "company": "Enactus"
+    },
+    {
+      "highlights": [
+        " AChecker is an online accessibility validator tool..",
+        "Solving bugs and sending PR to Git's main project repository.",
+        "Project URL : https://github.com/inclusive-design/AChecker/",
+        "Technologies Used: JavaScript, PHP, Node.JS, MYSQL"
+      ],
+      "company": "Fluid (Open Source Organization for GSOC 2018)",
+      "position": "Contributer",
+      "startDate": "Feb 2018"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "PHP",
+        "JavaScript"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Git",
+        "MYSQL",
+        "MongoDB",
+        "Node.JS",
+        null,
+        "IndexedDB"
+      ],
+      "name": "Tools/Framework"
+    },
+    {
+      "keywords": [
+        "Databases",
+        "AWS",
+        "Algorithms",
+        "Progressive Wep Apps"
+      ],
+      "name": "Strongest Areas"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Developmet and Implementation of an optimization algorithm to solve Vehicle routing problem with time windows by Hybrid approach ( Clark- Wright then Genetic algorithms) and performance comparison of individual Clark-Wright (Heuristic), Genetic algorithm (Meta-Heuristic) with the Hybridisation algorithm",
+      "keywords": [
+        "C, Genetic Algorithms, NP-Hard, Data Structures"
+      ],
+      "name": "Vehicle Routing Problem (College Minor Project)",
+      "url": "https://github.com/pranjaljn97/Vehicle-Routing-Problem-by-Clark-Wright-Algorithm"
+    },
+    {
+      "keywords": [
+        "C++, JSON, BSON, B-Tree, Databases"
+      ],
+      "name": "Development of NO-SQL Database Engine",
+      "description": "Builiding a No-SQL Database engine which can perform basic CRUD Operations as well as sorting, searching and stores data in form of Document-Oriented BSON."
+    },
+    {
+      "keywords": [
+        "GPU Computing, CUDA, MPI"
+      ],
+      "name": "High Performance Analytics",
+      "description": "This workshop is focused on advanced computing technologies like Parallel Computing and GPU computing with the help of Open Power. We excecuted CUDA programs on multiple GPU processors in this workshop and analysed the performance enhancement over CPU."
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "date": "Feb 2017",
+      "awarder": "Google Startup Weekend, TechStars",
+      "summary": "Recognized as Best Startup in Google Startup Weekend Dehradun 2017.",
+      "title": "Best Startup"
+    },
+    {
+      "title": "Technical Head",
+      "awarder": "UPES-CSI ( Computer Soceity Of India)",
+      "summary": "Appointed as Technical Head and organised multiple 48-Hours hackathons and events in order to provide a platform for young students to showcase their skills.",
+      "date": "2017-2018"
+    },
+    {
+      "awarder": "MP State Government",
+      "date": "May 2015",
+      "title": "Scholarship ",
+      "summary": "Received Scholarship by Madhya Pradesh State Government for 12th Board Merit."
+    },
+    {
+      "title": "Winner",
+      "awarder": "UPES- Ignite 2016",
+      "date": "March 2016",
+      "summary": "Won the coding competition Code Hustle in college Annual Tech-Fest."
+    },
+    {
+      "title": "Selected for Google Mobile-Web Specialist",
+      "date": "Feb 2018",
+      "awarder": "Udacity",
+      "summary": "Got scholarship to pursue Google Mobile-Web Specialist Course on Udacity under Google India Challenge."
+    },
+    {
+      "title": "Open Source Contributer",
+      "date": "Jan 2018",
+      "awarder": "Fluid",
+      "summary": "Active Contributor to Open source Orginazations Fluid's Project Achecker. "
+    },
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
